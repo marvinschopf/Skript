@@ -1,2 +1,6 @@
 /target
 /dep
+.idea
+.idea/*
+/.idea
+*.iml
